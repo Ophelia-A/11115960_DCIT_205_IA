@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../IAjpegs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "IA"
+	}
+}
