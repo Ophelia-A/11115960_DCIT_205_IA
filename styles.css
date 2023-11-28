@@ -652,7 +652,7 @@ color: white;
   padding: 20px 60px 30px 40px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   position: relative;
-  top: 200px;
+  top: 100px;
   margin-left: 100px;
 }
 .container .content{
@@ -780,4 +780,57 @@ color: white;
    width: 100%;
    margin-left: 0;
  }
+}
+
+
+
+.FAQcontainer{
+position: relative;
+top:200px;
+width: 80%;
+margin: 0 auto;
+
+}
+
+.researchcontainer{
+  position: relative;
+  top:100px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+
+
+.stutor{
+  position: relative;
+  top: auto;
+  width: 900px;
+  margin-left: 300px;
+  text-align: center;
+  margin-top: 100px;
+  color:rgb(4, 26, 84);
+  margin-bottom:0 auto;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.events{
+  position:relative;
+  top:auto;
+  margin-left: 300px;
+  text-align: center;
+  margin-top: 100px;
+  color:rgb(4, 26, 84);
+  width: 900px;
+
+}
+.eventsface{
+  position:relative;
+  top:0;
+  margin-left: 0 auto;
+  text-align: center;
+  margin-top: 300px;
+  margin-bottom: 0;
+  color:rgb(4, 26, 84);
+  
 }
