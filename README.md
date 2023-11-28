@@ -36,7 +36,7 @@ cd 11115960_DCIT205
 2. The full project code can be found on the computer. To keep it synced with commits on GitHub, type git pull to fetch updates.
 
 
-#Author<hr>
+# Author<hr>
 Name: Ophelia Awo Ayisi
 Student ID: 11115960
 
