@@ -1,4 +1,4 @@
-DCIT_205_IA
+
 # DCIT_205_IA
 # Building a website for the Computer Science department.<hr>  
 
@@ -16,7 +16,7 @@ The purpose of this website is to serve as an inclusive and accessible digital p
 # Setup Instructions<hr>
 
 1.  Navigate to the repository page on GitHub;
-      <https://github.com/YOUR DETAILS/_DCIT205>
+      <https://github.com/Ophelia-A/11115960_DCIT_205_IA>
 
 2. Click the green *Code* button on github and copy the URL for the repository.
 
@@ -24,16 +24,16 @@ The purpose of this website is to serve as an inclusive and accessible digital p
            cd Documents/Projects
 
 4. Run the git clone command and paste the URL:
- git clone <https://github.com/YOUR DETAILS/_DCIT205>
+ git clone <https://github.com/Ophelia-A/11115960_DCIT_205_IA>
 
-5. The project files will be cloned to a folder called *YOUR ID_DCIT205* locally.
+1. The project files will be cloned to a folder called *11115960_DCIT205* locally.
 
-6.  Change to the directory where you want the cloned project to be located: 
-cd YOUR ID_DCIT205
+2.  Change to the directory where you want the cloned project to be located: 
+cd 11115960_DCIT205
 
-7. To check if it cloned successfully, type git remote -v which will show the origin URL.
+1. To check if it cloned successfully, type git remote -v which will show the origin URL.
 
-8. The full project code can be found on the computer. To keep it synced with commits on GitHub, type git pull to fetch updates.
+2. The full project code can be found on the computer. To keep it synced with commits on GitHub, type git pull to fetch updates.
 
 
 #Author<hr>
@@ -74,7 +74,7 @@ The contact page also appears as
 <hr>
 
 ### Students: 
-The students can be found …
+The students page appears like this:
 
 ![Students screenshot](thejpegs/screenshots/studentsintro.png)
 ![Students screenshot](thejpegs/screenshots/studentsbody.png)
@@ -89,7 +89,7 @@ The courses page looks like this:
 <hr>
 
 ### Events: 
-The events can be found:
+The events is located at the footer of each page:
 
 ![Events screenshot](thejpegs/screenshots/eventsintro.png)
 ![Events screenshot](thejpegs/screenshots/eventspast.png)
@@ -98,14 +98,14 @@ The events can be found:
 <hr>
 
 ### Research: 
-The research can be found…
+The research link can be found at the footer of the page.
 
 ![Research screenshot](thejpegs/screenshots/reasearchintro.png)
 ![Research screenshot](thejpegs/screenshots/reasearchbody.png)
 <hr>
 
 ### Student Tutor: 
-The staff portfolio can be found…
+The student tutor can be found at the footer of each page:
 
 ![Tutor screenshot](thejpegs/screenshots/tutorintro.png)
 ![Tutor portfolio screenshot](thejpegs/screenshots/tutorform.png)
@@ -119,6 +119,6 @@ Visual representation of the FAQs PAGE:
 <hr>
 
 # Lessons learned<hr>
-I have learned a lot through ou this project. I have learnt about how to conduct research on topics, how to create a hover effect, I have also learnt how to effectively use github.
+I have learned a lot throughout this project. I have learnt about how to conduct research on topics, how to create a hover effect, I have also learnt how to effectively use github.
 
 
